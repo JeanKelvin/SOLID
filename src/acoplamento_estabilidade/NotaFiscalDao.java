@@ -1,4 +1,4 @@
-package acoplamento.estabilidade;
+package acoplamento_estabilidade;
 
 public class NotaFiscalDao implements AcaoAposGerarNota{
 	
